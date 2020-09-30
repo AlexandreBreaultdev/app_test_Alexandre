@@ -1,0 +1,6 @@
+[submodule "libs/lib-test-a_Alexandre"]
+	path = libs/lib-test-a_Alexandre
+	url = git@github.com:AlexandreBreaultdev/lib-test-a_Alexandre.git
+[submodule "libs/lib-test-b_Alexandre"]
+	path = libs/lib-test-b_Alexandre
+	url = git@github.com:AlexandreBreaultdev/lib-test-b_Alexandre.git
